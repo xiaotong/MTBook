@@ -49,8 +49,8 @@
 **Part II 统计机器翻译**
 
 3. 基于词的机器翻译模型
-  * <a href="https://opensource.niutrans.com/mtbook/section3-1.html" title="什么是基于词的翻译模型">3.1 什么是基于词的翻译模型</a>
-  * <a href="https://opensource.niutrans.com/mtbook/section3-2.html" title="构建一个简单的机器翻译系统">3.2 构建一个简单的机器翻译系统</a>
+  * <a href="https://opensource.niutrans.com/mtbook/section3-1.html" title="词在翻译中的作用">3.1 词在翻译中的作用</a>
+  * <a href="https://opensource.niutrans.com/mtbook/section3-2.html" title="一个简单的翻译系统">3.2 一个简单的翻译系统</a>
   * <a href="https://opensource.niutrans.com/mtbook/section3-3.html" title="基于词的翻译建模">3.3 基于词的翻译建模</a>
   * <a href="https://opensource.niutrans.com/mtbook/section3-4.html" title="IBM 模型 1-2">3.4 IBM 模型 1-2</a>
   * <a href="https://opensource.niutrans.com/mtbook/section3-5.html" title="IBM 模型 3-5 及隐马尔可夫模型">3.5 IBM 模型 3-5 及隐马尔可夫模型</a>
@@ -128,6 +128,10 @@ xelatex mt-book-xelatex
 
 注：编译tex文件会依赖一些宏包。如果有任何编译错误，建议将宏包更新至最新版本。
 
+## 课件
+
+本书各章节配套的课件均已开放。pdf版本的地址为[https://github.com/NiuTrans/MTBook/blob/master/slides](https://github.com/NiuTrans/MTBook/blob/master/slides)
+
 ## 开源协议
 
 本书的开源内容基于The Creative Commons Attribution-NonCommercial 4.0 Unported License（[link](https://creativecommons.org/licenses/by-nc/4.0)）
@@ -136,7 +140,7 @@ xelatex mt-book-xelatex
 
 感谢为本书做出贡献的小牛团队（部分）成员
 
-*曹润柘、曾信、孟霞、单韦乔、姜雨帆、王子扬、刘辉、许诺、李北、刘继强、张哲旸、周书含、周涛、张裕浩、李炎洋、林野、陈贺轩、刘晓倩、牛蕊、田丰宁、杜权、李垠桥、许晨、张裕浩、胡驰、冯凯、王泽洋、刘腾博、刘兴宇、徐萍、赵闯、高博、张春良、王会珍、张俐、杨木润、宁义明、李洋、秦浩、胡明涵*
+*曹润柘、曾信、孟霞、单韦乔、姜雨帆、王子扬、刘辉、许诺、李北、刘继强、张哲旸、周书含、周涛、李炎洋、林野、陈贺轩、刘晓倩、牛蕊、田丰宁、杜权、李垠桥、许晨、张裕浩、胡驰、冯凯、王泽洋、刘腾博、刘兴宇、徐萍、赵闯、高博、张春良、王会珍、张俐、杨木润、宁义明、李洋、秦浩、胡明涵*
 
 ## 联系我们
 
